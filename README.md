@@ -32,7 +32,7 @@ To effectively arrive at my conclusion and conclude my analysis, the total fare 
 ![Total Fare by City Type](Analysis/PyBer_fare_summary.png)
 
 ## Summary
-One conclusion that we have arrived at after analyzing our data is that riders in the rural communities take far less rides than other communities, however pay the most-per-ride than any other demographic as illustrated in the data frame. Another conclusion is that there is a slight inverse correlation between where customers lived and how frequently, or infrequently they traveled during certain times of the year. This shows us that special attention needs to be paid to customers that are located in Urban communities because they are the most overall revenue generating clients.
+One conclusion that we have arrived at after analyzing our data is that riders in the rural cities and communities take far less rides than other cities and communities, however they pay the most-per-ride than any other demographic as illustrated in the data frame. Another conclusion is that there is a slight inverse correlation between where customers lived and how frequently, or infrequently they traveled during certain times of the year. This shows us that special attention needs to be paid to customers that are located in Urban communities because they are the most overall revenue generating clients.
 
 By observing the “Total Fare By City” chart we can see that some suggestions can be made, hopefully to the C.E.O, for addressing a few disparities among the city types:
 ```
