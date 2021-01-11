@@ -25,14 +25,14 @@ Average Fare per Driver: Rural ($55.49), Suburban ($39.50), Urban ($16.57)
 To effectively arrive at my conclusion and conclude my analysis, the total fare by city type of PyBer ride fares was analyzed and visualized in the form of a multiple-line graph to convey valuable information to the client. Using data collected from the type summary data frame and data reflected in the multiple-line chart of this report, the differences in ride-sharing data among the different city types are as follows:
 
 ```
-1. Revenue genereated by rural riders was significantly less than their Urban counterparts
+1. Revenue genereated by rural riders was significantly less than their urban counterparts
 2. Suburban customers used the ride-sharing service more than any other demographic between the months of April & May
 3. Urban clients generate the most revenue for the company and travel significantly between the months of February & April
 ```
 ![Total Fare by City Type](Analysis/PyBer_fare_summary.png)
 
 ## Summary
-One conclusion that we have arrived at after analyzing our data is that riders in the rural cities and communities take far less rides than other cities and communities, however they pay the most-per-ride than any other demographic as illustrated in the data frame. Another conclusion is that there is a slight inverse correlation between where customers lived and how frequently, or infrequently they traveled during certain times of the year. This shows us that special attention needs to be paid to customers that are located in Urban communities because overall they are the most revenue-generating clients.
+One conclusion that we have arrived at after analyzing our data is that riders in the rural cities and communities take far less rides than other cities and communities, however they pay the most-per-ride than any other demographic as illustrated in the data frame. Another conclusion is that there is a slight inverse correlation between where customers lived and how frequently, or infrequently they traveled during certain times of the year. This shows us that special attention needs to be paid to customers that are located in urban communities because overall they are the most revenue-generating clients.
 
 By observing the “Total Fare By City” chart we can see that some suggestions can be made, hopefully to the C.E.O, for addressing a few disparities among the city types:
 ```
