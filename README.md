@@ -36,6 +36,6 @@ One conclusion that we have arrived at after analyzing our data is that riders i
 
 By observing the “Total Fare By City” chart we can see that some suggestions can be made, hopefully to the C.E.O, for addressing a few disparities among the city types:
 ```
-1. Promotional codes & discounts may be extremely effective if marketed towards higher paying riders such as those in Urban communities to boost sales.
-2. More drivers are needed in Rural communities. A lack of available drivers is a contributing factor to low ride-share usage in Rural communities.
-3. Ride-share sales see a brief boost in Rural communities during the month of April. More marketing efforts can be created to drive stronger sales during that month based around specific contributors and catalysts for the surge in ride-share demand.
+1. Promotional codes & discounts may be extremely effective if marketed towards higher paying riders such as those in urban communities to boost sales.
+2. More drivers are needed in rural communities. A lack of available drivers is a contributing factor to low ride-share usage in rural communities.
+3. Ride-share sales see a brief boost in rural communities during the month of April. More marketing efforts can be created to drive stronger sales during that month based around specific contributors and catalysts for the surge in ride-share demand.
