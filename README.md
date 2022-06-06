@@ -39,3 +39,5 @@ By observing the “Total Fare By City” chart we can see that some suggestions
 1. Promotional codes & discounts may be extremely effective if marketed towards higher paying riders such as those in urban communities to boost sales.
 2. More drivers are needed in rural communities. A lack of available drivers is a contributing factor to low ride-share usage in rural communities.
 3. Ride-share sales see a brief boost in rural communities during the month of April. More marketing efforts can be created to drive stronger sales during that month based around specific contributors and catalysts for the surge in ride-share demand.
+
+* Note: All images that are screen shots are mine. All other photos are sources from Google Images.
